@@ -20,3 +20,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ###网络营销
 - 成果
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>李剑雄</h1>
+      <p><b>天才</b></p>
+      <p><b>广东工业大学管理学院</b></p>
+      <p><b>邮箱：984664890@qq.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
